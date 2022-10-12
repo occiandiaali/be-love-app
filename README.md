@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Android screen-shot  
+![belove-homescreen](https://user-images.githubusercontent.com/40769994/195221777-9dde3c85-e067-415a-8359-2f371cee2bfe.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
